@@ -1,0 +1,806 @@
+COM5
+COM7
+COM4
+COM5 COM7 COM4
+load_cell_coms: COM5
+encoder_coms: COM7
+motor_coms: COM4
+load cell board connected
+encoder board connected
+pulsr communication check successful
+Check Successfull
+Motor Disabled
+Do you want to test the Motors?     Y or N
+Y
+Please enter a number:
+6
+You entered a number. Press x to exit
+angles: 11, 100
+angles: 11, 100
+force: 27173, 28694
+SPEED UPDATED
+angles: 11, 100
+angles: 11, 100
+force: 27160, 28703
+SPEED UPDATED
+angles: 11, 100
+angles: 11, 100
+force: 27153, 28702
+SPEED UPDATED
+angles: 11, 100
+angles: 11, 100
+force: 27159, 28691
+SPEED UPDATED
+angles: 11, 100
+angles: 11, 100
+force: 27192, 28675
+SPEED UPDATED
+angles: 11, 100
+angles: 11, 100
+force: 27185, 28675
+SPEED UPDATED
+angles: 11, 100
+angles: 11, 100
+force: 27191, 28678
+SPEED UPDATED
+angles: 11, 100
+angles: 11, 100
+force: 26752, 29200
+SPEED UPDATED
+angles: 11, 100
+angles: 11, 100
+force: 27672, 30376
+SPEED UPDATED
+angles: 11, 100
+angles: 11, 100
+force: 29311, 30427
+SPEED UPDATED
+angles: 11, 100
+angles: 11, 100
+force: 31260, 29711
+SPEED UPDATED
+angles: 11, 100
+angles: 11, 100
+force: 32772, 29698
+SPEED UPDATED
+angles: 11, 100
+angles: 11, 100
+force: 33980, 30397
+SPEED UPDATED
+angles: 11, 100
+angles: 11, 100
+force: 35579, 30392
+SPEED UPDATED
+angles: 11, 100
+angles: 11, 100
+force: 35413, 30346
+SPEED UPDATED
+angles: 11, 100
+angles: 11, 100
+force: 36355, 30342
+SPEED UPDATED
+angles: 11, 100
+angles: 11, 100
+force: 36475, 30346
+SPEED UPDATED
+angles: 11, 100
+angles: 11, 100
+force: 36037, 29897
+SPEED UPDATED
+angles: 11, 100
+angles: 11, 100
+force: 36560, 29860
+SPEED UPDATED
+angles: 11, 100
+angles: 11, 100
+force: 36983, 29821
+SPEED UPDATED
+angles: 11, 100
+angles: 11, 100
+force: 37514, 29791
+SPEED UPDATED
+angles: 11, 100
+angles: 11, 100
+force: 37953, 29771
+SPEED UPDATED
+angles: 11, 100
+angles: 11, 100
+force: 38593, 29753
+SPEED UPDATED
+angles: 11, 100
+angles: 11, 100
+force: 39063, 29702
+SPEED UPDATED
+angles: 11, 100
+angles: 11, 100
+force: 39041, 29383
+SPEED UPDATED
+angles: 11, 100
+angles: 11, 100
+force: 39424, 29373
+SPEED UPDATED
+angles: 11, 100
+angles: 11, 100
+force: 39449, 29370
+SPEED UPDATED
+angles: 11, 100
+angles: 11, 100
+force: 39518, 29373
+SPEED UPDATED
+angles: 11, 100
+angles: 11, 100
+force: 39662, 29394
+SPEED UPDATED
+angles: 11, 100
+angles: 11, 100
+force: 39518, 29408
+SPEED UPDATED
+angles: 11, 100
+angles: 11, 100
+force: 40004, 29422
+SPEED UPDATED
+angles: 11, 100
+angles: 11, 100
+force: 40119, 29730
+SPEED UPDATED
+angles: 11, 100
+angles: 11, 100
+force: 40508, 29741
+SPEED UPDATED
+angles: 11, 100
+angles: 11, 100
+force: 41533, 29770
+SPEED UPDATED
+angles: 11, 100
+angles: 11, 100
+force: 41063, 29790
+SPEED UPDATED
+angles: 11, 100
+angles: 11, 100
+force: 41124, 29786
+SPEED UPDATED
+angles: 11, 100
+angles: 11, 100
+force: 41125, 29788
+SPEED UPDATED
+angles: 11, 100
+angles: 11, 100
+force: 41124, 29780
+SPEED UPDATED
+angles: 11, 100
+angles: 11, 100
+force: 41152, 29770
+SPEED UPDATED
+angles: 11, 100
+angles: 11, 100
+force: 41096, 29766
+SPEED UPDATED
+angles: 11, 100
+angles: 11, 100
+force: 41141, 29771
+SPEED UPDATED
+angles: 11, 100
+angles: 11, 100
+force: 42066, 29779
+SPEED UPDATED
+angles: 11, 100
+angles: 11, 100
+force: 42030, 29798
+SPEED UPDATED
+angles: 11, 100
+angles: 11, 100
+force: 42595, 29808
+SPEED UPDATED
+angles: 11, 100
+angles: 11, 100
+force: 42655, 29801
+SPEED UPDATED
+angles: 12, 100
+angles: 12, 100
+force: 42743, 29787
+SPEED UPDATED
+angles: 12, 100
+angles: 12, 100
+force: 39026, 29358
+SPEED UPDATED
+angles: 12, 100
+angles: 12, 100
+force: 39162, 29223
+SPEED UPDATED
+angles: 12, 100
+angles: 12, 100
+force: 39643, 29199
+SPEED UPDATED
+angles: 12, 100
+angles: 12, 100
+force: 40018, 29216
+SPEED UPDATED
+angles: 12, 100
+angles: 12, 100
+force: 40662, 29241
+SPEED UPDATED
+angles: 12, 100
+angles: 12, 100
+force: 40653, 29265
+SPEED UPDATED
+angles: 12, 100
+angles: 12, 100
+force: 41106, 29313
+SPEED UPDATED
+angles: 12, 100
+angles: 12, 100
+force: 41682, 29344
+SPEED UPDATED
+angles: 12, 100
+angles: 12, 100
+force: 41163, 29364
+SPEED UPDATED
+angles: 12, 100
+angles: 12, 100
+force: 42140, 29375
+SPEED UPDATED
+angles: 12, 100
+angles: 12, 100
+force: 42228, 29381
+SPEED UPDATED
+angles: 12, 100
+angles: 12, 100
+force: 42197, 29396
+SPEED UPDATED
+angles: 12, 100
+angles: 12, 100
+force: 43036, 29423
+SPEED UPDATED
+angles: 12, 100
+angles: 12, 100
+force: 43092, 29424
+SPEED UPDATED
+angles: 12, 100
+angles: 12, 100
+force: 43568, 29420
+SPEED UPDATED
+angles: 12, 100
+angles: 12, 100
+force: 43245, 29424
+SPEED UPDATED
+angles: 12, 100
+angles: 12, 100
+force: 43214, 29410
+SPEED UPDATED
+angles: 12, 100
+angles: 12, 100
+force: 43249, 29394
+SPEED UPDATED
+angles: 12, 100
+angles: 12, 100
+force: 43707, 29404
+SPEED UPDATED
+angles: 12, 100
+angles: 12, 100
+force: 43757, 29395
+SPEED UPDATED
+angles: 12, 100
+angles: 12, 100
+force: 44123, 29389
+SPEED UPDATED
+angles: 12, 100
+angles: 12, 100
+force: 44646, 29377
+SPEED UPDATED
+angles: 12, 100
+angles: 12, 100
+force: 44775, 29365
+SPEED UPDATED
+angles: 13, 100
+angles: 13, 100
+force: 43633, 29361
+SPEED UPDATED
+angles: 13, 100
+angles: 13, 100
+force: 43623, 29215
+SPEED UPDATED
+angles: 13, 100
+angles: 13, 100
+force: 42209, 28888
+SPEED UPDATED
+angles: 13, 100
+angles: 13, 100
+force: 42030, 28919
+SPEED UPDATED
+angles: 13, 100
+angles: 13, 100
+force: 42509, 28913
+SPEED UPDATED
+angles: 13, 100
+angles: 13, 100
+force: 42663, 29185
+SPEED UPDATED
+angles: 13, 100
+angles: 13, 100
+force: 42615, 29210
+SPEED UPDATED
+angles: 13, 100
+angles: 13, 100
+force: 42026, 29200
+SPEED UPDATED
+angles: 13, 100
+angles: 13, 100
+force: 42222, 29193
+SPEED UPDATED
+angles: 13, 100
+angles: 13, 100
+force: 42174, 28880
+SPEED UPDATED
+angles: 13, 100
+angles: 13, 100
+force: 42568, 28897
+SPEED UPDATED
+angles: 13, 100
+angles: 13, 100
+force: 42153, 28881
+SPEED UPDATED
+angles: 13, 100
+angles: 13, 100
+force: 42051, 28845
+SPEED UPDATED
+angles: 13, 100
+angles: 13, 100
+force: 42733, 28814
+SPEED UPDATED
+angles: 13, 100
+angles: 13, 100
+force: 42613, 28782
+SPEED UPDATED
+angles: 13, 100
+angles: 13, 100
+force: 42007, 28804
+SPEED UPDATED
+angles: 13, 100
+angles: 13, 100
+force: 42214, 28823
+SPEED UPDATED
+angles: 13, 100
+angles: 13, 100
+force: 42568, 28907
+SPEED UPDATED
+angles: 13, 100
+angles: 13, 100
+force: 42696, 28865
+SPEED UPDATED
+angles: 13, 100
+angles: 13, 100
+force: 42710, 28872
+SPEED UPDATED
+angles: 13, 100
+angles: 13, 100
+force: 43671, 28866
+SPEED UPDATED
+angles: 13, 100
+angles: 13, 100
+force: 43740, 28860
+SPEED UPDATED
+angles: 13, 100
+angles: 13, 100
+force: 43765, 28883
+SPEED UPDATED
+angles: 13, 100
+angles: 13, 100
+force: 43120, 28882
+SPEED UPDATED
+angles: 13, 100
+angles: 13, 100
+force: 43564, 28903
+SPEED UPDATED
+angles: 13, 100
+angles: 13, 100
+force: 44545, 28884
+SPEED UPDATED
+angles: 13, 100
+angles: 13, 100
+force: 44222, 28863
+SPEED UPDATED
+angles: 13, 100
+angles: 13, 100
+force: 45121, 28829
+SPEED UPDATED
+angles: 13, 100
+angles: 13, 100
+force: 45587, 28797
+SPEED UPDATED
+angles: 13, 100
+angles: 13, 100
+force: 45306, 28762
+SPEED UPDATED
+angles: 13, 100
+angles: 13, 100
+force: 46231, 28756
+SPEED UPDATED
+angles: 13, 100
+angles: 13, 100
+force: 46224, 28716
+SPEED UPDATED
+angles: 14, 100
+angles: 14, 100
+force: 46826, 28690
+SPEED UPDATED
+angles: 14, 100
+angles: 14, 100
+force: 45715, 29240
+SPEED UPDATED
+angles: 14, 100
+angles: 14, 100
+force: 45575, 28828
+SPEED UPDATED
+angles: 14, 100
+angles: 14, 100
+force: 45304, 28822
+SPEED UPDATED
+angles: 14, 100
+angles: 14, 100
+force: 46617, 28895
+SPEED UPDATED
+angles: 14, 100
+angles: 14, 100
+force: 46113, 28905
+SPEED UPDATED
+angles: 14, 100
+angles: 14, 100
+force: 46801, 28927
+SPEED UPDATED
+angles: 15, 100
+angles: 15, 100
+force: 47150, 29195
+SPEED UPDATED
+angles: 15, 100
+angles: 15, 100
+force: 41640, 28802
+SPEED UPDATED
+angles: 15, 100
+angles: 15, 100
+force: 42207, 28378
+SPEED UPDATED
+angles: 15, 100
+angles: 15, 100
+force: 42059, 28257
+SPEED UPDATED
+angles: 15, 100
+angles: 15, 100
+force: 42597, 28251
+SPEED UPDATED
+angles: 15, 100
+angles: 15, 100
+force: 42668, 28323
+SPEED UPDATED
+angles: 15, 100
+angles: 15, 100
+force: 43102, 28319
+SPEED UPDATED
+angles: 15, 100
+angles: 15, 100
+force: 43211, 28353
+SPEED UPDATED
+angles: 15, 100
+angles: 15, 100
+force: 43635, 28361
+SPEED UPDATED
+angles: 15, 100
+angles: 15, 100
+force: 43129, 28403
+SPEED UPDATED
+angles: 15, 100
+angles: 15, 100
+force: 42538, 28341
+SPEED UPDATED
+angles: 15, 100
+angles: 15, 100
+force: 42141, 28378
+SPEED UPDATED
+angles: 16, 100
+angles: 16, 100
+force: 39457, 28167
+SPEED UPDATED
+angles: 16, 100
+angles: 16, 100
+force: 39679, 27752
+SPEED UPDATED
+angles: 16, 100
+angles: 16, 100
+force: 39602, 28404
+SPEED UPDATED
+angles: 16, 100
+angles: 16, 100
+force: 39660, 27648
+SPEED UPDATED
+angles: 16, 100
+angles: 16, 100
+force: 39002, 28410
+SPEED UPDATED
+angles: 16, 100
+angles: 16, 100
+force: 39516, 28402
+SPEED UPDATED
+angles: 16, 100
+angles: 16, 100
+force: 40450, 27662
+SPEED UPDATED
+angles: 16, 100
+angles: 16, 100
+force: 41139, 27762
+SPEED UPDATED
+angles: 16, 100
+angles: 16, 100
+force: 39965, 27730
+SPEED UPDATED
+angles: 16, 100
+angles: 16, 100
+force: 40668, 28323
+SPEED UPDATED
+angles: 16, 100
+angles: 16, 100
+force: 40527, 28268
+SPEED UPDATED
+angles: 16, 100
+angles: 16, 100
+force: 40480, 28266
+SPEED UPDATED
+angles: 16, 100
+angles: 16, 100
+force: 40008, 28253
+SPEED UPDATED
+angles: 16, 100
+angles: 16, 100
+force: 40035, 28241
+SPEED UPDATED
+angles: 16, 100
+angles: 16, 100
+force: 40009, 28229
+SPEED UPDATED
+angles: 16, 100
+angles: 16, 100
+force: 40551, 28246
+SPEED UPDATED
+angles: 16, 100
+angles: 16, 100
+force: 41000, 28292
+SPEED UPDATED
+angles: 17, 100
+angles: 17, 100
+force: 41672, 28347
+SPEED UPDATED
+angles: 17, 100
+angles: 17, 100
+force: 40463, 28173
+SPEED UPDATED
+angles: 17, 100
+angles: 17, 100
+force: 40671, 28178
+SPEED UPDATED
+angles: 17, 100
+angles: 17, 100
+force: 41604, 28217
+SPEED UPDATED
+angles: 17, 100
+angles: 17, 100
+force: 40512, 28222
+SPEED UPDATED
+angles: 17, 100
+angles: 17, 100
+force: 40695, 28193
+SPEED UPDATED
+angles: 17, 100
+angles: 17, 100
+force: 39953, 27847
+SPEED UPDATED
+angles: 17, 100
+angles: 17, 100
+force: 40149, 27829
+SPEED UPDATED
+angles: 17, 100
+angles: 17, 100
+force: 40448, 27864
+SPEED UPDATED
+angles: 17, 100
+angles: 17, 100
+force: 41009, 27883
+SPEED UPDATED
+angles: 17, 100
+angles: 17, 100
+force: 41541, 27862
+SPEED UPDATED
+angles: 17, 100
+angles: 17, 100
+force: 41089, 27883
+SPEED UPDATED
+angles: 17, 100
+angles: 17, 100
+force: 41724, 28188
+SPEED UPDATED
+angles: 17, 100
+angles: 17, 100
+force: 42681, 28200
+SPEED UPDATED
+angles: 17, 100
+angles: 17, 100
+force: 42501, 28211
+SPEED UPDATED
+angles: 17, 100
+angles: 17, 100
+force: 43052, 28225
+SPEED UPDATED
+angles: 17, 100
+angles: 17, 100
+force: 43545, 28230
+SPEED UPDATED
+angles: 17, 100
+angles: 17, 100
+force: 43144, 28249
+SPEED UPDATED
+angles: 17, 100
+angles: 17, 100
+force: 42574, 27792
+SPEED UPDATED
+angles: 17, 100
+angles: 17, 100
+force: 42038, 27791
+SPEED UPDATED
+angles: 17, 100
+angles: 17, 100
+force: 42690, 27842
+SPEED UPDATED
+angles: 17, 100
+angles: 17, 100
+force: 43171, 27869
+SPEED UPDATED
+angles: 17, 100
+angles: 17, 100
+force: 43182, 27879
+SPEED UPDATED
+angles: 17, 100
+angles: 17, 100
+force: 43159, 27884
+SPEED UPDATED
+angles: 17, 100
+angles: 17, 100
+force: 43182, 27881
+SPEED UPDATED
+angles: 17, 100
+angles: 17, 100
+force: 43523, 27873
+SPEED UPDATED
+angles: 17, 100
+angles: 17, 100
+force: 43554, 27877
+SPEED UPDATED
+angles: 17, 100
+angles: 17, 100
+force: 43746, 28165
+SPEED UPDATED
+angles: 18, 100
+angles: 18, 100
+force: 43574, 28174
+SPEED UPDATED
+angles: 18, 100
+angles: 18, 100
+force: 41554, 27782
+SPEED UPDATED
+angles: 18, 100
+angles: 18, 100
+force: 41155, 27717
+SPEED UPDATED
+angles: 18, 100
+angles: 18, 100
+force: 40584, 27703
+SPEED UPDATED
+angles: 18, 100
+angles: 18, 100
+force: 39953, 27737
+SPEED UPDATED
+angles: 18, 100
+angles: 18, 100
+force: 40066, 27765
+SPEED UPDATED
+angles: 18, 100
+angles: 18, 100
+force: 40185, 27788
+SPEED UPDATED
+angles: 18, 100
+angles: 18, 100
+force: 41087, 27860
+SPEED UPDATED
+angles: 18, 100
+angles: 18, 100
+force: 42014, 28208
+SPEED UPDATED
+angles: 18, 100
+angles: 18, 100
+force: 42619, 28221
+SPEED UPDATED
+angles: 18, 100
+angles: 18, 100
+force: 42064, 28204
+SPEED UPDATED
+angles: 18, 100
+angles: 18, 100
+force: 42728, 28215
+SPEED UPDATED
+angles: 18, 100
+angles: 18, 100
+force: 43202, 28236
+SPEED UPDATED
+angles: 19, 100
+angles: 19, 100
+force: 43540, 28259
+SPEED UPDATED
+angles: 19, 100
+angles: 19, 100
+force: 41495, 28228
+SPEED UPDATED
+angles: 19, 100
+angles: 19, 100
+force: 38079, 28365
+SPEED UPDATED
+angles: 19, 100
+angles: 19, 100
+force: 32478, 27353
+SPEED UPDATED
+angles: 19, 100
+angles: 19, 100
+force: 32483, 27334
+SPEED UPDATED
+angles: 19, 100
+angles: 19, 100
+force: 28738, 27308
+SPEED UPDATED
+angles: 19, 100
+angles: 19, 100
+force: 29393, 27854
+SPEED UPDATED
+angles: 19, 100
+angles: 19, 100
+force: 28281, 28409
+SPEED UPDATED
+angles: 19, 100
+angles: 19, 100
+force: 28220, 27723
+SPEED UPDATED
+angles: 19, 100
+angles: 19, 100
+force: 28359, 27756
+SPEED UPDATED
+angles: 19, 100
+angles: 19, 100
+force: 28276, 27768
+SPEED UPDATED
+angles: 19, 100
+angles: 19, 100
+force: 28185, 27801
+SPEED UPDATED
+angles: 19, 100
+angles: 19, 100
+force: 28178, 27835
+SPEED UPDATED
+angles: 19, 100
+angles: 19, 100
+force: 27863, 27850
+SPEED UPDATED
+angles: 19, 100
+angles: 19, 100
+force: 27873, 27877
+SPEED UPDATED
+angles: 19, 100
+angles: 19, 100
+force: 27801, 27881
+SPEED UPDATED
+angles: 19, 100
+angles: 19, 100
+force: 28298, 28226
+SPEED UPDATED
+angles: 19, 100
+angles: 19, 100
+force: 27783, 28177
+SPEED UPDATED
+You pressed 'x'. Exiting the loop.
+
+C:\Users\MECRUN\Desktop\JideCode\pulsr3\PULSR3\experiments\motorTest\motor\bin\Debug\net6.0\motor.exe (process 11568) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
