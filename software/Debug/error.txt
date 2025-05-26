@@ -1,0 +1,8 @@
+
+Unhandled Exception: System.IO.IOException: The port 'COM12' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at PULSR_3.pulsr.InitializeCommunication() in C:\Users\MECRUN\Desktop\JideCode\pulsr3\PULSR3\pulsr\pulsrAPI.cs:line 152
+   at PULSR_3.Form1..ctor() in C:\Users\MECRUN\Desktop\JideCode\pulsr3\PULSR3\pulsr\Form1.cs:line 85
+   at PULSR_3.Program.Main() in C:\Users\MECRUN\Desktop\JideCode\pulsr3\PULSR3\pulsr\Program.cs:line 21
