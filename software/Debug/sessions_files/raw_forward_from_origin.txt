@@ -1,0 +1,639 @@
+angles: 0, 75
+angles: 0, 75
+force: 39166, 50207
+SPEED UPDATED
+angles: 0, 75
+angles: 0, 75
+force: 39937, 63058
+SPEED UPDATED
+angles: 0, 75
+angles: 0, 75
+force: 42118, 24249
+SPEED UPDATED
+angles: 0, 75
+angles: 0, 75
+force: 42497, 4332
+SPEED UPDATED
+angles: 0, 75
+angles: 0, 75
+force: 42076, 24249
+SPEED UPDATED
+angles: 0, 75
+angles: 0, 75
+force: 41021, 17439
+SPEED UPDATED
+angles: 0, 75
+angles: 0, 75
+force: 41618, 24249
+SPEED UPDATED
+angles: 0, 75
+angles: 0, 75
+force: 41125, 63058
+SPEED UPDATED
+angles: 0, 75
+angles: 0, 75
+force: 41686, 63058
+SPEED UPDATED
+angles: 0, 75
+angles: 0, 75
+force: 39606, 43142
+SPEED UPDATED
+angles: 0, 75
+angles: 0, 75
+force: 37990, 17439
+SPEED UPDATED
+angles: 0, 75
+angles: 0, 75
+force: 40582, 4332
+SPEED UPDATED
+angles: 0, 75
+angles: 0, 75
+force: 41608, 17439
+SPEED UPDATED
+angles: 0, 75
+angles: 0, 75
+force: 41483, 10374
+SPEED UPDATED
+angles: 0, 75
+angles: 0, 75
+force: 41575, 4332
+SPEED UPDATED
+angles: 0, 75
+angles: 0, 75
+force: 41032, 24249
+SPEED UPDATED
+angles: 0, 75
+angles: 0, 75
+force: 41670, 43142
+SPEED UPDATED
+angles: 0, 75
+angles: 0, 75
+force: 41604, 63058
+SPEED UPDATED
+angles: 0, 75
+angles: 0, 75
+force: 41036, 50207
+SPEED UPDATED
+angles: 0, 75
+angles: 0, 75
+force: 41564, 43142
+SPEED UPDATED
+angles: 0, 75
+angles: 0, 75
+force: 41005, 50206
+SPEED UPDATED
+angles: 0, 75
+angles: 0, 75
+force: 41110, 50207
+SPEED UPDATED
+angles: 0, 75
+angles: 0, 75
+force: 41726, 43142
+SPEED UPDATED
+angles: 0, 75
+angles: 0, 75
+force: 44566, 37100
+SPEED UPDATED
+angles: 0, 75
+angles: 0, 75
+force: 47339, 57017
+SPEED UPDATED
+angles: 0, 75
+angles: 0, 75
+force: 49287, 17439
+SPEED UPDATED
+angles: 3, 75
+angles: 3, 75
+force: 51753, 37100
+SPEED UPDATED
+angles: 4, 75
+angles: 4, 75
+force: 47158, 63058
+SPEED UPDATED
+angles: 4, 75
+angles: 4, 75
+force: 49205, 57017
+SPEED UPDATED
+angles: 6, 75
+angles: 6, 75
+force: 51904, 43142
+SPEED UPDATED
+angles: 8, 75
+angles: 8, 75
+force: 49908, 10374
+SPEED UPDATED
+angles: 11, 75
+angles: 11, 75
+force: 47774, 50206
+SPEED UPDATED
+angles: 12, 75
+angles: 12, 75
+force: 47618, 37099
+SPEED UPDATED
+angles: 14, 75
+angles: 14, 75
+force: 49397, 30289
+SPEED UPDATED
+angles: 17, 75
+angles: 17, 75
+force: 47190, 43141
+SPEED UPDATED
+angles: 19, 75
+angles: 19, 75
+force: 47672, 43141
+SPEED UPDATED
+angles: 21, 75
+angles: 21, 75
+force: 48836, 63057
+SPEED UPDATED
+angles: 24, 75
+angles: 24, 75
+force: 46197, 50206
+SPEED UPDATED
+angles: 26, 75
+angles: 26, 75
+force: 46226, 10373
+SPEED UPDATED
+angles: 28, 75
+angles: 28, 75
+force: 47763, 4331
+SPEED UPDATED
+angles: 31, 75
+angles: 31, 75
+force: 46667, 50206
+SPEED UPDATED
+angles: 33, 75
+angles: 33, 75
+force: 46089, 57016
+SPEED UPDATED
+angles: 34, 75
+angles: 34, 75
+force: 47312, 37099
+SPEED UPDATED
+angles: 37, 75
+angles: 37, 75
+force: 47823, 4331
+SPEED UPDATED
+angles: 40, 75
+angles: 40, 75
+force: 29213, 37099
+SPEED UPDATED
+angles: 41, 75
+angles: 41, 75
+force: 47668, 30289
+SPEED UPDATED
+angles: 44, 75
+angles: 44, 75
+force: 48180, 17438
+SPEED UPDATED
+angles: 47, 75
+angles: 47, 75
+force: 38645, 43141
+SPEED UPDATED
+angles: 48, 75
+angles: 48, 75
+force: 42680, 4331
+SPEED UPDATED
+angles: 51, 75
+angles: 51, 75
+force: 32357, 24248
+SPEED UPDATED
+angles: 53, 75
+angles: 53, 75
+force: 49752, 4332
+SPEED UPDATED
+angles: 55, 75
+angles: 55, 75
+force: 32468, 43142
+SPEED UPDATED
+angles: 57, 75
+angles: 57, 75
+force: 47243, 50207
+SPEED UPDATED
+angles: 59, 75
+angles: 59, 75
+force: 49340, 63058
+SPEED UPDATED
+angles: 61, 75
+angles: 61, 75
+force: 50808, 43142
+SPEED UPDATED
+angles: 62, 75
+angles: 62, 75
+force: 40069, 57017
+SPEED UPDATED
+angles: 62, 75
+angles: 62, 75
+force: 43615, 10374
+SPEED UPDATED
+angles: 62, 75
+angles: 62, 75
+force: 33993, 24249
+SPEED UPDATED
+angles: 64, 75
+angles: 64, 75
+force: 31274, 4332
+SPEED UPDATED
+angles: 67, 75
+angles: 67, 75
+force: 28274, 17439
+SPEED UPDATED
+angles: 69, 75
+angles: 69, 75
+force: 48798, 43142
+SPEED UPDATED
+angles: 69, 75
+angles: 69, 75
+force: 29885, 63058
+SPEED UPDATED
+angles: 69, 75
+angles: 69, 75
+force: 48748, 63058
+SPEED UPDATED
+angles: 69, 75
+angles: 69, 75
+force: 48263, 50207
+SPEED UPDATED
+angles: 72, 75
+angles: 72, 75
+force: 28694, 4332
+SPEED UPDATED
+angles: 73, 75
+angles: 73, 75
+force: 32450, 57017
+SPEED UPDATED
+angles: 73, 75
+angles: 73, 75
+force: 27161, 43142
+SPEED UPDATED
+angles: 73, 75
+angles: 73, 75
+force: 50768, 37100
+SPEED UPDATED
+angles: 74, 75
+angles: 74, 75
+force: 39980, 10374
+SPEED UPDATED
+angles: 76, 75
+angles: 76, 75
+force: 36518, 30290
+SPEED UPDATED
+angles: 76, 75
+angles: 76, 75
+force: 26678, 37100
+SPEED UPDATED
+angles: 76, 75
+angles: 76, 75
+force: 42669, 50207
+SPEED UPDATED
+angles: 76, 75
+angles: 76, 75
+force: 52926, 50207
+SPEED UPDATED
+angles: 78, 75
+angles: 78, 75
+force: 53968, 10374
+SPEED UPDATED
+angles: 80, 75
+angles: 80, 75
+force: 51780, 50207
+SPEED UPDATED
+angles: 81, 75
+angles: 81, 75
+force: 47309, 4332
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 47216, 10374
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 48894, 10374
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 48771, 17438
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 47649, 37099
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 49786, 24248
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 51937, 24248
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 48791, 30289
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 45295, 37100
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 44792, 10374
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 43025, 50207
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 46783, 4332
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 47225, 50207
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 43123, 50207
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 42058, 43142
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 41483, 37099
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 40008, 30290
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 40531, 24249
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 40655, 24249
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 40573, 57017
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 40487, 57017
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 40108, 50207
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 40077, 37100
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 41680, 57017
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 40015, 30290
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 41667, 30290
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 42167, 43142
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 40451, 50207
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 39973, 30290
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 40994, 43142
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 40094, 50207
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 46213, 37100
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 41091, 43142
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 42181, 37100
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 41032, 50207
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 41028, 43142
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 42026, 43142
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 41987, 30290
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 42024, 43142
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 41597, 43142
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 40656, 50207
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 43146, 10374
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 43240, 30290
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 44612, 37100
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 43720, 30290
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 43578, 63058
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 44625, 10374
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 44585, 50207
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 44260, 30290
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 43774, 50207
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 44113, 50207
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 43638, 30290
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 43159, 37100
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 43669, 30290
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 42016, 63058
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 44661, 37100
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 44092, 50207
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 44283, 30290
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 44090, 37100
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 43176, 37100
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 43628, 37100
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 43564, 10374
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 43764, 10374
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 43561, 63058
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 44205, 37100
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 45293, 30290
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 45297, 37100
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 45275, 37100
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 45269, 37100
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 45199, 43142
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 45189, 37100
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 45148, 10374
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 45108, 37100
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 44783, 57017
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 44255, 63058
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 43016, 4332
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 43039, 43142
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 43072, 50207
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 43166, 43142
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 43023, 37100
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 42742, 37100
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 41552, 63058
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 40702, 63058
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 40640, 63058
+SPEED UPDATED
+angles: 82, 75
+angles: 82, 75
+force: 39979, 63058
