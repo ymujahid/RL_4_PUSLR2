@@ -27,7 +27,7 @@ pulsr2=pulsr()
 pulsr2.initialize_communication(2000000,comPort[0])	
 
 #initialize starting dialog box windows
-starting_dialog_box=pygame.display.set_mode(starting_dialog_box_size)
+starting_ dialog_box=pygame.display.set_mode(starting_dialog_box_size)
 background=pygame.display.set_mode(starting_dialog_box_size)	#foundation surface definition
 screen=pygame.display.set_mode(starting_dialog_box_size)	#starting dialog box surface definition
 
